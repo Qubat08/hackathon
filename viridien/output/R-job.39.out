@@ -1,0 +1,13 @@
+rm -f BSM BSM2 BSM3 BSM4 BSM5 BSM3-5 BSM4-5 BSM5-5 BSM6 BSM6_arm
+armclang++ -std=c++17  -mcpu=native -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math  -march=native -ffast-math -fopenmp -lm   -o BSM6_arm BSM6.cxx
+	*************************************************
+	*                                               *
+	*          ONE-View report generation           *
+	*                                               *
+	*************************************************
+
+Info: Experiment configuration summary is available adding -dbg=1 in command line
+
+** Error: binary ./BSM6 given in the experiment configuration does not exist
+
+*** Critical: Experiment directory can not be created

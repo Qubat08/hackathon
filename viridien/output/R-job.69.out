@@ -1,0 +1,19 @@
+make: Nothing to be done for `all'.
+================EXECUTING BSM1====================
+Global initial seed: 994519050      argv[1]= 1000     argv[2]= 1000000
+ value= 5.137215 in 102.306825 seconds
+================EXECUTING BSM3-5====================
+Global initial seed: 4104253759      argv[1]= 1000     argv[2]= 1000000   Num threads: 96
+ value= 5.137107 in 0.420104 seconds
+================EXECUTING BSM6====================
+Global initial seed: 1149202998      argv[1]= 1000     argv[2]= 1000000   Num threads: 96
+ value= 5.136263 in 0.188104 seconds
+================EXECUTING BSM6_arm====================
+Global initial seed: 344858684      argv[1]= 1000     argv[2]= 1000000   Num threads: 96
+ value= 5.137141 in 0.166474 seconds
+================EXECUTING BSM7====================
+Global initial seed: 1107798034      argv[1]= 1000     argv[2]= 1000000   Num threads: 96
+ value= 5.136314 in 0.123343 seconds
+================EXECUTING BSM8====================
+Global initial seed: 2252816642      argv[1]= 1000     argv[2]= 1000000   Num threads: 96
+ value= 5.137145 in 0.102427 seconds

@@ -1,0 +1,11 @@
+rm -f BSM BSM2 BSM3
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm BSM.cxx -o BSM
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm BSM2.cxx -o BSM2
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -fopenmp BSM3.cxx -o BSM3
+Global initial seed: 2618746616      argv[1]= 10000000     argv[2]= 1000     Number of threads: 96
+Running with 10000000 simulations and 1000 runs.
+
+%Best Relative Error: 0.000232067
+%Worst Relative Error: 0.338814
+%Average Relative Error: 0.0725419725
+Performance in seconds: 23.3

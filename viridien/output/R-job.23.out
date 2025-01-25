@@ -1,0 +1,8 @@
+rm -f BSM BSM2 BSM3 BSM4 BSM5 BSM3-5 BSM4-5 BSM5-5
+g++ -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm BSM.cxx -o BSM
+g++ -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm BSM2.cxx -o BSM2
+g++ -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -fopenmp BSM3.cxx -o BSM3
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -fopenmp BSM3-5.cxx -o BSM3-5
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -fopenmp BSM5.cxx -o BSM5
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -fopenmp BSM5-5.cxx -o BSM5-5
+Global initial seed: 1955469591      argv[1]= 100000     argv[2]= 1000000   Num threads: 96

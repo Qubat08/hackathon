@@ -1,0 +1,8 @@
+rm -f BSM BSM2 BSM3 BSM4 BSM5
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm BSM.cxx -o BSM
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm BSM2.cxx -o BSM2
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -fopenmp BSM3.cxx -o BSM3
+mpic++ -std=c++17 -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -o BSM4 BSM4.cxx
+g++ -std=c++17 -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -o BSM5 BSM5.cxx
+Global initial seed: 3392642868      argv[1]= 1000     argv[2]= 1000000
+ value= 5.136995 in 108.131746 seconds

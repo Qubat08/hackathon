@@ -1,0 +1,7 @@
+rm -f BSM BSM2 BSM3 BSM4 BSM5 BSM3-5 BSM4-5 BSM5-5 BSM6 BSM6_arm BSM7 BSM8
+armclang++ -std=c++17 -larmpl -larmpl_mp -Wall -g -fno-omit-frame-pointer -O3 -funroll-loops -fassociative-math  -march=native -mcpu=native -ffast-math -fopenmp  -lboost_system -lboost_random -o BSM8 BSM8.cxx 
+Global initial seed: 658166748      argv[1]= 1000000     argv[2]= 1000000   Num threads: 96
+ value= 5.136920 in 74.611069 seconds
+Global initial seed: 3347762969      argv[1]= 1000000     argv[2]= 1000000   Num threads: 96
+ value= 5.136955 in 75.206112 seconds
+Global initial seed: 497407541      argv[1]= 1000000     argv[2]= 1000000   Num threads: 96

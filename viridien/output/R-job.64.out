@@ -1,0 +1,150 @@
+=============================== Run 1 ===============================
+Global initial seed: 3373323816      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119668 in 867.613622 seconds
+Global initial seed: 2001464028      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138986 in 433.919538 seconds
+Global initial seed: 3360241968      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135976 in 216.821761 seconds
+Global initial seed: 2903139193      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136898 in 108.625298 seconds
+Global initial seed: 2308835903      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136984 in 54.222314 seconds
+Global initial seed: 1892093241      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136937 in 27.146310 seconds
+Global initial seed: 2179115178      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136971 in 13.675146 seconds
+=============================== Run 2 ===============================
+Global initial seed: 3233340967      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119774 in 866.967728 seconds
+Global initial seed: 1655778404      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138913 in 434.129739 seconds
+Global initial seed: 3372610766      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.136009 in 216.798988 seconds
+Global initial seed: 3423538046      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136971 in 109.389093 seconds
+Global initial seed: 3305679340      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136943 in 54.188731 seconds
+Global initial seed: 299640363      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136980 in 27.119892 seconds
+Global initial seed: 3337394196      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136920 in 13.695013 seconds
+=============================== Run 3 ===============================
+Global initial seed: 718363885      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119776 in 866.930881 seconds
+Global initial seed: 3503389356      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138863 in 434.096044 seconds
+Global initial seed: 2046531190      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135916 in 216.896066 seconds
+Global initial seed: 2515031070      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136968 in 108.462169 seconds
+Global initial seed: 3099977485      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136934 in 54.223556 seconds
+Global initial seed: 961228108      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136949 in 27.120518 seconds
+Global initial seed: 2226179772      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136976 in 13.560358 seconds
+=============================== Run 4 ===============================
+Global initial seed: 2570104541      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119792 in 867.242794 seconds
+Global initial seed: 1453175004      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138937 in 434.141374 seconds
+Global initial seed: 2198633806      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135940 in 216.883612 seconds
+Global initial seed: 1225562176      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136985 in 108.453590 seconds
+Global initial seed: 2505304238      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136956 in 54.223188 seconds
+Global initial seed: 2333314715      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136969 in 27.153534 seconds
+Global initial seed: 3382558573      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136916 in 13.576399 seconds
+=============================== Run 5 ===============================
+Global initial seed: 1957226568      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119833 in 867.408443 seconds
+Global initial seed: 2351625810      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138903 in 433.811385 seconds
+Global initial seed: 3490404819      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135925 in 216.759431 seconds
+Global initial seed: 2639027752      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136932 in 108.414316 seconds
+Global initial seed: 2341063523      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136931 in 54.281588 seconds
+Global initial seed: 2962884640      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136958 in 27.151633 seconds
+Global initial seed: 1652493824      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136963 in 13.694789 seconds
+=============================== Run 6 ===============================
+Global initial seed: 3690665955      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119657 in 867.363047 seconds
+Global initial seed: 3578053517      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138942 in 433.578183 seconds
+Global initial seed: 2301365122      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135921 in 220.137991 seconds
+Global initial seed: 698871909      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136865 in 108.674894 seconds
+Global initial seed: 3532141214      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136917 in 54.360867 seconds
+Global initial seed: 513118048      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136949 in 27.100515 seconds
+Global initial seed: 2264558960      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136915 in 13.564161 seconds
+=============================== Run 7 ===============================
+Global initial seed: 92672464      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119705 in 867.378591 seconds
+Global initial seed: 2637612675      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138891 in 433.921874 seconds
+Global initial seed: 149776847      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135984 in 217.132200 seconds
+Global initial seed: 1000245359      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136969 in 108.437744 seconds
+Global initial seed: 1983264114      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136978 in 54.239711 seconds
+Global initial seed: 2538562978      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136969 in 27.102638 seconds
+Global initial seed: 3007932757      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136898 in 13.572794 seconds
+=============================== Run 8 ===============================
+Global initial seed: 1718180802      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119715 in 867.365983 seconds
+Global initial seed: 787715932      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138929 in 433.394498 seconds
+Global initial seed: 4105876749      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135925 in 216.888620 seconds
+Global initial seed: 990233498      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136973 in 108.578824 seconds
+Global initial seed: 4005700447      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136946 in 54.286580 seconds
+Global initial seed: 569143398      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136940 in 27.135486 seconds
+Global initial seed: 3566876675      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136938 in 13.576170 seconds
+=============================== Run 9 ===============================
+Global initial seed: 1326462801      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119829 in 866.465045 seconds
+Global initial seed: 2170626565      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138953 in 433.464292 seconds
+Global initial seed: 1125707791      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135992 in 216.993088 seconds
+Global initial seed: 4046764628      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136970 in 108.568817 seconds
+Global initial seed: 2391646411      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136931 in 54.240054 seconds
+Global initial seed: 888286839      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136971 in 27.125446 seconds
+Global initial seed: 138197142      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136971 in 13.678801 seconds
+=============================== Run 10 ===============================
+Global initial seed: 2252840950      argv[1]= 100000     argv[2]= 1000000   Num threads: 1
+ value= 5.119733 in 867.396305 seconds
+Global initial seed: 2031332289      argv[1]= 100000     argv[2]= 1000000   Num threads: 2
+ value= 5.138917 in 433.652802 seconds
+Global initial seed: 4286612707      argv[1]= 100000     argv[2]= 1000000   Num threads: 4
+ value= 5.135956 in 216.929030 seconds
+Global initial seed: 2707443383      argv[1]= 100000     argv[2]= 1000000   Num threads: 8
+ value= 5.136942 in 108.449308 seconds
+Global initial seed: 3607529637      argv[1]= 100000     argv[2]= 1000000   Num threads: 16
+ value= 5.136899 in 54.290759 seconds
+Global initial seed: 4218478600      argv[1]= 100000     argv[2]= 1000000   Num threads: 32
+ value= 5.136997 in 27.105481 seconds
+Global initial seed: 1576951874      argv[1]= 100000     argv[2]= 1000000   Num threads: 64
+ value= 5.136959 in 13.557809 seconds

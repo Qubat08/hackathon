@@ -1,0 +1,14 @@
+make: Nothing to be done for `all'.
+================EXECUTING BSM8====================
+Global initial seed: 1622604083      argv[1]= 1000     argv[2]= 1000000   Num threads: 96
+ value= 5.137006 in 0.076494 seconds
+Global initial seed: 3131713761      argv[1]= 10000     argv[2]= 1000000   Num threads: 96
+ value= 5.136995 in 0.741825 seconds
+Global initial seed: 2228859598      argv[1]= 100000     argv[2]= 1000000   Num threads: 96
+ value= 5.136952 in 7.344088 seconds
+Global initial seed: 2806433309      argv[1]= 1000000     argv[2]= 1000000   Num threads: 96
+ value= 5.136917 in 74.091392 seconds
+Global initial seed: 785591494      argv[1]= 10000000     argv[2]= 1000000   Num threads: 96
+ value= 5.135504 in 747.348940 seconds
+Global initial seed: 3348157338      argv[1]= 100000000     argv[2]= 1000000   Num threads: 96
+ value= 5.016036 in 7430.438296 seconds

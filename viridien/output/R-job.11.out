@@ -1,0 +1,13 @@
+rm -f BSM BSM2 BSM3 BSM4 BSM5
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm BSM.cxx -o BSM
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm BSM2.cxx -o BSM2
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -fopenmp BSM3.cxx -o BSM3
+mpic++ -std=c++17 -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -o BSM4 BSM4.cxx
+g++ -std=c++17 -std=c++17 -Wall -g -fno-omit-frame-pointer -Ofast -funroll-loops -fassociative-math -march=native -ffast-math -fopenmp -lm -o BSM5 BSM5.cxx
+Global initial seed: 1052011083      argv[1]= 10000000     argv[2]= 1000     Number of threads: 96
+Running with 10000000 simulations and 1000 runs.
+
+%Best Relative Error: 0.000167083
+%Worst Relative Error: 0.330856
+%Average Relative Error: 0.0726473108
+Performance in seconds: 8.74

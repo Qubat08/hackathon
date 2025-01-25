@@ -1,0 +1,8 @@
+g++ BSM.cxx -o BSM
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -O3 -funroll-loops -fassociative-math  -march=native -mcpu=native -ffast-math -fopenmp  -fopenmp BSM3-5.cxx -o BSM3-5
+g++ -std=c++17 -Wall -g -fno-omit-frame-pointer -O3 -funroll-loops -fassociative-math  -march=native -mcpu=native -ffast-math -fopenmp  -fopenmp BSM6.cxx -o BSM6
+armclang++ -std=c++17 -Wall -g -fno-omit-frame-pointer -O3 -funroll-loops -fassociative-math  -march=native -mcpu=native -ffast-math -fopenmp   -o BSM6_arm BSM6.cxx
+armclang++ -std=c++17 -Wall -g -fno-omit-frame-pointer -O3 -funroll-loops -fassociative-math  -march=native -mcpu=native -ffast-math -fopenmp  -o BSM7 BSM7.cxx
+armclang++ -std=c++17 -Wall -g -fno-omit-frame-pointer -O3 -funroll-loops -fassociative-math  -march=native -mcpu=native -ffast-math -fopenmp  -lboost_system -lboost_random -fopenmp -o BSM8 BSM8.cxx 
+================EXECUTING BSM====================
+Global initial seed: 1779384244      argv[1]= 10000     argv[2]= 1000000
